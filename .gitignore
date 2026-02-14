@@ -25,7 +25,7 @@ hs_err_pid*
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-target/*
+target/**
 !target/site
 !target/site/jacoco
 src/test/java/CreateOrder1.java
