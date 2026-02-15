@@ -1,8 +1,7 @@
-import Courier.Courier;
-import Courier.CourierClient;
-import Courier.CourierCredentials;
-import Courier.CourierGenerator;
-import io.qameta.allure.Description;
+import courier.Courier;
+import courier.CourierClient;
+import courier.CourierCredentials;
+import courier.CourierGenerator;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Story;

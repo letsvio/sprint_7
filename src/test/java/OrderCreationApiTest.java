@@ -1,6 +1,6 @@
-import Order.Order;
-import Order.OrderClient;
-import Order.OrderGenerator;
+import order.Order;
+import order.OrderClient;
+import order.OrderGenerator;
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;

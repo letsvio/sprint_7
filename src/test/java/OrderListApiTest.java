@@ -1,4 +1,4 @@
-import Order.OrderClient;
+import order.OrderClient;
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
